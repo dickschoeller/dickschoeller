@@ -61,7 +61,7 @@ I'm deep into automating my home.
 [![Ubiquiti](https://img.shields.io/badge/Ubiquiti-9.0.114-0559C9?logo=ubiquiti)](https://unifi.ui.com)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-25.10-E95420?logo=ubuntu)](https://ubuntu.com/)
 [![Raspbian](https://img.shields.io/badge/Raspian-10-A22846?logo=raspberrypi)](https://www.raspberrypi.com/software/operating-systems/)
-[![Open Media Vault](https://img.shields.io/badge/Open_Media_Vault-8.0.6-5DACDF?logo=openmediavault)(https://www.openmediavault.org/)
+[![Open Media Vault](https://img.shields.io/badge/Open_Media_Vault-8.0.6-5DACDF?logo=openmediavault)](https://www.openmediavault.org/)
 [![Lutron Caseta](https://img.shields.io/badge/Lutron-Caseta-003666)](https://www.casetawireless.com/us/en)
 [![Hunter Douglas](https://img.shields.io/badge/Hunter-Douglas-f69736)](https://www.hunterdouglas.com/smart-automation)
 [![Honeywell Resideo](https://img.shields.io/badge/Honeywell-Resideo-d22730)](https://www.resideo.com/us/en/)
