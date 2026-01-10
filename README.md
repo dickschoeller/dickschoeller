@@ -2,6 +2,11 @@
 
 ### Software Development Architect | vulnerability and quality maven | Java, Spring Boot expert | Agile Teams Leader & Mentor
 
+![](https://komarev.com/ghpvc/?username=dickschoeller)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1b70c6)](https://www.linkedin.com/in/dickschoeller/)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?logo=facebook)](https://www.facebook.com/dickschoeller)
+[![E-Mail](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:dickschoeller@gmail.com)
+
 ## What's here
 
 ### [gedbrowser](https://github.com/dickschoeller/gedbrowser)
