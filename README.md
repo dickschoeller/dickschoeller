@@ -46,6 +46,12 @@ This is my sandbox for teaching myself new technologies for full stack applicati
 [![SpotBugs](https://img.shields.io/badge/SpotBugs-4.9.8.2-317ccf)](https://spotbugs.github.io/)
 [![PMD](https://img.shields.io/badge/PMD-7.20.0-1dbf73)](https://pmd.github.io/)
 
+#### Retired Tools
+
+[![Travis CI](https://img.shields.io/badge/Travis-CI-3EAAAF?logo=travisci)](https://app.travis-ci.com/github/dickschoeller/gedbrowser/no-build)
+[![Tidelift](https://img.shields.io/badge/Tidelift-Security-290042)](https://www.sonarsource.com/solutions/security/?tidelift=tidelift-redirect)
+[![Codebeat](https://img.shields.io/badge/Codebeat-Qualtiy-53a6db)](https://codebeat.co/)
+
 ### Klezmer scores
 
 I maintain a collection Klezmer music arrangements. These are typeset with [LilyPond](https://lilypond.org/). Some are quite sophisticated arrangements, most are leadsheets transposed for different instruments and a suggested bass line. 😎
