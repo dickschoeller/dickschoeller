@@ -32,7 +32,7 @@ This is my sandbox for teaching myself new technologies for full stack applicati
 [![Renovate](https://img.shields.io/badge/Renovate-42-308BE3?logo=renovate)](https://github.com/renovatebot/renovate)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-1.1.07.1-5d9dfe)](https://code.visualstudio.com/)
 [![JUnit_Jupiter](https://img.shields.io/badge/JUnit_Jupiter-6.0.2-24935a)](https://junit.org)
-[![Sauce Labs](https://img.shields.io/badge/Sauce_Labs-1.5.0-3DDC91)](https://saucelabs.com/)
+[![Sauce Labs](https://img.shields.io/badge/Sauce_Labs-1.5.0-3DDC91?logo=saucelabs)](https://saucelabs.com/)
 [![JaCoCo](https://img.shields.io/badge/JaCoCo-0.8.14-a30000)](https://www.eclemma.org/jacoco/)
 [![Coveralls](https://img.shields.io/badge/Coveralls-4.3.0-3F5767?logo=coveralls)](https://coveralls.io/)
 [![Code Climate](https://img.shields.io/badge/Code_Climate-331a99?logo=codeclimate)](https://codeclimate.com/)
@@ -46,7 +46,7 @@ I maintain a collection Klezmer music arrangements. These are typeset with [Lily
 
 #### Tools
 
-[![GNU Emacs](https://img.shields.io/badge/GNU_Emacs-30.1-7F5AB6?logo=gnuemacs)](https://www.gnu.org/software/emacs/)
+[![GNU Emacs](https://img.shields.io/badge/GNU_Emacs-30.1-7F5AB6?logo=gnuemacs&logoColor=white)](https://www.gnu.org/software/emacs/)
 [![LilyPond](https://img.shields.io/badge/LilyPond-2.24.4-0da44d)](https://lilypond.org/)
 
 ### Home automation
