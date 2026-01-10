@@ -1,6 +1,6 @@
 # Hi :wave:, I'm Richard (Dick) Schoeller
 
-### About me
+## About me
 
 ### Software Development Architect | vulnerability and quality maven | Java, Spring Boot expert | Agile Teams Leader & Mentor
 
@@ -19,9 +19,9 @@ When I'm not doing techy stuff I:
 * Do genealogy 🌳 in the gaps
 * Play guitar 🎸 and bass (though our band has disbanded, pun intended)
 
-## What's here
+# What's here
 
-### [gedbrowser](https://github.com/dickschoeller/gedbrowser)
+## [gedbrowser](https://github.com/dickschoeller/gedbrowser)
 
 This is my sandbox for teaching myself new technologies for full stack applications. There are 3 applications and several supporting libraries in there, all dedicated to editing and displaying genealogy data loaded from and saved to [GEDCOM](http://genealogy.net/GEDCOM/GEDCOM551%20GEDCOM-L%20Addendum-R2.pdf) files. The older application, **gedbrowser**, use [Thymeleaf](https://www.thymeleaf.org) to create static pages. The newer, **gedbrowserng**, is an [Angular](https://angular.dev) application. The final application is **geoservice**, which translates archaic place names into modern ones, to support displaying locations on an embedded Google map.
 
@@ -64,7 +64,7 @@ This is my sandbox for teaching myself new technologies for full stack applicati
 [![Tidelift](https://img.shields.io/badge/Tidelift-Security-290042)](https://www.sonarsource.com/solutions/security/?tidelift=tidelift-redirect)
 [![Codebeat](https://img.shields.io/badge/Codebeat-Qualtiy-53a6db)](https://codebeat.co/)
 
-### [Klezmer scores](https://github.com/dickschoeller/klezmerbook)
+## [Klezmer scores](https://github.com/dickschoeller/klezmerbook)
 
 I maintain a collection Klezmer music arrangements. These are typeset with [LilyPond](https://lilypond.org/). Some are quite sophisticated arrangements, most are leadsheets transposed for different instruments and a suggested bass line. 😎
 
@@ -73,7 +73,7 @@ I maintain a collection Klezmer music arrangements. These are typeset with [Lily
 [![GNU Emacs](https://img.shields.io/badge/GNU_Emacs-30.1-7F5AB6?logo=gnuemacs&logoColor=white)](https://www.gnu.org/software/emacs/)
 [![LilyPond](https://img.shields.io/badge/LilyPond-2.24.4-0da44d)](https://lilypond.org/)
 
-### Home automation
+## Home automation
 
 I'm deep into automating my home.
 
