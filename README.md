@@ -6,7 +6,7 @@
 
 ### [gedbrowser](https://github.com/dickschoeller/gedbrowser)
 
-This is my sandbox for teaching myself new technologies for full stack applications. The main project I use for doing that is **gedbrowser**. There are 3 applications and several supporting libraries in there, all dedicated to editing and displaying genealogy data loaded from GEDCOM files.. The older application, **gedbrowser**, use thymeleaf to create static pages. The newer **gedbrowserng**, is an Angular application. The final application is **geoservice**, which translates archaic place names into modern ones, to support displaying locations on an embedded Google map.
+This is my sandbox for teaching myself new technologies for full stack applications. There are 3 applications and several supporting libraries in there, all dedicated to editing and displaying genealogy data loaded from and saved to [GEDCOM](http://genealogy.net/GEDCOM/GEDCOM551%20GEDCOM-L%20Addendum-R2.pdf) files. The older application, **gedbrowser**, use [Thymeleaf](https://www.thymeleaf.org) to create static pages. The newer, **gedbrowserng**, is an [Angular](https://angular.dev) application. The final application is **geoservice**, which translates archaic place names into modern ones, to support displaying locations on an embedded Google map.
 
 #### Technology
 
