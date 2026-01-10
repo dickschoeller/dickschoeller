@@ -25,7 +25,7 @@ This is my sandbox for teaching myself new technologies for full stack applicati
 #### Tools
 
 ![GitHub](https://img.shields.io/badge/GitHub-repo-darkgreen?logo=github)
-[![Eclipse IDE](https://img.shields.io/badge/Eclipse_ID-2025-2C2255?logo=eclipseide)](https://eclipseide.org/)
+[![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2025-2C2255?logo=eclipseide)](https://eclipseide.org/)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub-Copilot-darkgree?logo=githubcopilot)](https://github.com/features/copilot)
 [![Maven](https://img.shields.io/badge/Maven-3.9.9-C71A36?logo=apachemaven)](https://maven.apache.org/)
 [![Snyk](https://img.shields.io/badge/Snyk-Open_Source-4C4A73?logo=snyk)](https://snyk.io/)
