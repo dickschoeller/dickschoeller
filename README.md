@@ -1,11 +1,23 @@
 # Hi :wave:, I'm Richard (Dick) Schoeller
 
+### About me
+
 ### Software Development Architect | vulnerability and quality maven | Java, Spring Boot expert | Agile Teams Leader & Mentor
 
 ![](https://komarev.com/ghpvc/?username=dickschoeller)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1b70c6)](https://www.linkedin.com/in/dickschoeller/)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?logo=facebook)](https://www.facebook.com/dickschoeller)
 [![E-Mail](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:dickschoeller@gmail.com)
+
+I'm Dick Schoeller, a software architect with more years of experience than my previous CEO has been alive (see if you can figure that one out 😎). Most of my recent experience has been working with Spring Boot applications. Most of my efforts have been focusing on the quality and security of the work done by the teams I was involved. Because I'm currently job hunting, I've been refreshing my knowledge of Angular, upgrading my pet project to Spring Boot 4, reworking my CI/CD.
+
+When I'm not doing techy stuff I:
+* Ski ⛷️ and ice fish 🎣 in the winter
+* Have season ticket to BU ice hockey 🏒
+* Boat 🛥️ and fish 🎣 in the summer
+* Go to concerts 🎵 when I can
+* Do genealogy 🌳 in the gaps
+* Play guitar 🎸 and bass (though our band has disbanded, pun intended)
 
 ## What's here
 
