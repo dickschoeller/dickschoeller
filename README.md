@@ -1,6 +1,6 @@
 # Hi :wave:, I'm Richard (Dick) Schoeller
 
-## Software Development Architect | vulnerability and quality maven | Java, Spring Boot expert | Agile Teams Leader & Mentor
+### Software Development Architect | vulnerability and quality maven | Java, Spring Boot expert | Agile Teams Leader & Mentor
 
 ## What's here
 
@@ -36,8 +36,8 @@ This is my sandbox for teaching myself new technologies for full stack applicati
 [![JaCoCo](https://img.shields.io/badge/JaCoCo-0.8.14-a30000)](https://www.eclemma.org/jacoco/)
 [![Coveralls](https://img.shields.io/badge/Coveralls-4.3.0-3F5767?logo=coveralls)](https://coveralls.io/)
 [![Code Climate](https://img.shields.io/badge/Code_Climate-331a99?logo=codeclimate)](https://codeclimate.com/)
-[![Checkstyle](https://img.shields.io/badge/Checkstyle-13.0.0-fcc204)(https://checkstyle.sourceforge.io/)
-[![SpotBugs](https://img.shields.io/badge/SpotBugs-4.9.8.2-317ccf)(https://spotbugs.github.io/)
+[![Checkstyle](https://img.shields.io/badge/Checkstyle-13.0.0-fcc204)](https://checkstyle.sourceforge.io/)
+[![SpotBugs](https://img.shields.io/badge/SpotBugs-4.9.8.2-317ccf)](https://spotbugs.github.io/)
 [![PMD](https://img.shields.io/badge/PMD-7.20.0-1dbf73)](https://pmd.github.io/)
 
 ### Klezmer scores
