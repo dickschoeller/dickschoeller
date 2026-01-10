@@ -11,6 +11,7 @@ This is my sandbox for teaching myself new technologies for full stack applicati
 #### Technology
 
 [![OpenJDK](https://img.shields.io/badge/OpenJDK-25-orange?logo=openjdk)](https://openjdk.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-3178C6?logo=typescript)](https://www.typescriptlang.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-7.0.2-6DB33F?logo=springboot)](https://docs.spring.io/spring-boot/index.html)
 [![Angular](https://img.shields.io/badge/Angular-21.0.8-0F0F11?logo=angular)](https://angular.dev/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4.4-47A248?logo=mongodb)](https://www.mongodb.com/)
