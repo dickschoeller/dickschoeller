@@ -57,4 +57,4 @@ I'm deep into automating my home.
 
 [![Home Assistant](https://img.shields.io/badge/Home%20Assistant-2026.1.0-18BCF2?logo=homeassistant)](https://www.home-assistant.io/)
 [![HACS](https://img.shields.io/badge/HACS-2.0.5-41BDF5?logo=homeassistantcommunitystore)](https://www.hacs.xyz/)
-[![Ubiquiti](https://img.shields.io/badge/Ubiquiti-9.0.114-0559C9)](https://unifi.ui.com)
+[![Ubiquiti](https://img.shields.io/badge/Ubiquiti-9.0.114-0559C9?logo=ubiquiti)](https://unifi.ui.com)
