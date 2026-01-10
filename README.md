@@ -64,7 +64,7 @@ This is my sandbox for teaching myself new technologies for full stack applicati
 [![Tidelift](https://img.shields.io/badge/Tidelift-Security-290042)](https://www.sonarsource.com/solutions/security/?tidelift=tidelift-redirect)
 [![Codebeat](https://img.shields.io/badge/Codebeat-Qualtiy-53a6db)](https://codebeat.co/)
 
-### Klezmer scores
+### [Klezmer scores](https://github.com/dickschoeller/klezmerbook)
 
 I maintain a collection Klezmer music arrangements. These are typeset with [LilyPond](https://lilypond.org/). Some are quite sophisticated arrangements, most are leadsheets transposed for different instruments and a suggested bass line. 😎
 
