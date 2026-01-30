@@ -42,6 +42,7 @@ This is my sandbox for teaching myself new technologies for full stack applicati
 #### Tools
 
 ![GitHub](https://img.shields.io/badge/GitHub-repo-darkgreen?logo=github)
+[![GitHub Actions](https://img.shields.io/badge/Github-actions-2088FF?logo=githubactions)](https://docs.github.com/en/actions)
 [![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2025-2C2255?logo=eclipseide)](https://eclipseide.org/)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub-Copilot-darkgree?logo=githubcopilot)](https://github.com/features/copilot)
 [![Maven](https://img.shields.io/badge/Maven-3.9.9-C71A36?logo=apachemaven)](https://maven.apache.org/)
@@ -49,20 +50,26 @@ This is my sandbox for teaching myself new technologies for full stack applicati
 [![Renovate](https://img.shields.io/badge/Renovate-42-308BE3?logo=renovate)](https://github.com/renovatebot/renovate)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-1.1.07.1-5d9dfe)](https://code.visualstudio.com/)
 [![JUnit_Jupiter](https://img.shields.io/badge/JUnit_Jupiter-6.0.2-24935a)](https://junit.org)
-[![Sauce Labs](https://img.shields.io/badge/Sauce_Labs-1.5.0-3DDC91?logo=saucelabs)](https://saucelabs.com/)
-[![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-4.39.0-43B02A?logo=selenium)](https://www.selenium.dev/documentation/webdriver/)
+[![Vitest](https://img.shields.io/badge/Vitest-4.0.0-00FF74?logo=vitest)](https://vitest.dev/)
+[![ESLint](https://img.shields.io/badge/ESLint-9.39.1-4B32C3?logo=eslint)](https://eslint.org/)
 [![JaCoCo](https://img.shields.io/badge/JaCoCo-0.8.14-a30000)](https://www.eclemma.org/jacoco/)
 [![Coveralls](https://img.shields.io/badge/Coveralls-4.3.0-3F5767?logo=coveralls)](https://coveralls.io/)
-[![Code Climate](https://img.shields.io/badge/Code_Climate-331a99?logo=codeclimate)](https://codeclimate.com/)
 [![Checkstyle](https://img.shields.io/badge/Checkstyle-13.0.0-fcc204)](https://checkstyle.sourceforge.io/)
 [![SpotBugs](https://img.shields.io/badge/SpotBugs-4.9.8.2-317ccf)](https://spotbugs.github.io/)
 [![PMD](https://img.shields.io/badge/PMD-7.20.0-1dbf73)](https://pmd.github.io/)
+[![SonarQube](https://img.shields.io/badge/SonarQube-cloud-126ed3?logo=sonarqubecloud)](https://sonarcloud.io)
+
+#### Tools temporarily disabled
+
+[![Sauce Labs](https://img.shields.io/badge/Sauce_Labs-1.5.0-3DDC91?logo=saucelabs)](https://saucelabs.com/)
+[![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-4.39.0-43B02A?logo=selenium)](https://www.selenium.dev/documentation/webdriver/)
 
 #### Retired Tools
 
-[![Travis CI](https://img.shields.io/badge/Travis-CI-3EAAAF?logo=travisci)](https://app.travis-ci.com/github/dickschoeller/gedbrowser/no-build)
-[![Tidelift](https://img.shields.io/badge/Tidelift-Security-290042)](https://www.sonarsource.com/solutions/security/?tidelift=tidelift-redirect)
 [![Codebeat](https://img.shields.io/badge/Codebeat-Qualtiy-53a6db)](https://codebeat.co/)
+[![Code Climate](https://img.shields.io/badge/Code_Climate-331a99?logo=codeclimate)](https://codeclimate.com/)
+[![Tidelift](https://img.shields.io/badge/Tidelift-Security-290042)](https://www.sonarsource.com/solutions/security/?tidelift=tidelift-redirect)
+[![Travis CI](https://img.shields.io/badge/Travis-CI-3EAAAF?logo=travisci)](https://app.travis-ci.com/github/dickschoeller/gedbrowser/no-build)
 
 ## [Klezmer scores](https://github.com/dickschoeller/klezmerbook)
 
